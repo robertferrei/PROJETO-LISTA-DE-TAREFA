@@ -68,9 +68,6 @@ export const Buttonn = styled.button`
        &:active{
         opacity: 0.6;
        }
-
-       @media (max-width: 1024px) {
-  margin-top:25px;
  `
 export const ListItem = styled.div`
     width: 500px;
